@@ -75,4 +75,4 @@ while is_on:
             payment=process_coins()
             if is_payment(payment,coffe_type['cost']):
                 make_coffe(choice,coffe_type['ingredients'])
-
+                
